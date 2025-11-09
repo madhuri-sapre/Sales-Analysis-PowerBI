@@ -4,7 +4,7 @@ Developed an interactive Power BI dashboard to analyze and visualize Amazon prod
 
 Key Features:
 
-Displayed KPIs for YTD Sales, QTD Sales, Products Sold, and Customer Reviews.
+Displayed KPIs for YTD Sales, QTD Sales, Products Sold, and Customer Reviews.   
 Created trend analysis charts for monthly and weekly sales performance.
 Visualized category-wise sales and revenue contribution with detailed breakdowns.
 Highlighted top 5 products by YTD Sales and YTD Reviews to identify bet performers.
