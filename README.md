@@ -61,7 +61,7 @@ Built trend charts (Monthly & Weekly) <br />
 Added category and product-level charts <br />
 Inserted slicers for interactive filtering <br />
 
-# Insights Generated
+# Insights Generated 
 Best-performing categories by sales <br />
 Most popular products based on reviews <br />
 Monthly and weekly sales patterns <br />
