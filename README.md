@@ -3,7 +3,7 @@ Amazon Product Sales Analysis – Power BI
     
     
 # Description
-This project presents an interactive Amazon Product Sales Analysis Dashboard built in Power BI. It provides key insights into sales trends, category-wise performance, top products, and customer engagement through metrics like YTD Sales, QTD Sales, Total Products Sold, and Reviews, enabling smarter business decision-making.
+This project presents an interactive Amazon Product Sales Analysis Dashboard built in Power BI. It provides key insights into sales trends, category-wise performance, top products, and customer engagement through metrics like YTD Sales, QTD Sales, Total Products Sold, and Reviews, enabling smarter business decision-making.   
 
 
 # Project Overview
